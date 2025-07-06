@@ -8,7 +8,7 @@ I am currently learning Python, and going through the backend development proces
 ### Education & Certifications
 - CS50P: Introduction to Programming with Python (HarvardX)
 - Currently learning backend development with Python
-- 
+  
 ---
 
 ### About Me  
